@@ -21,8 +21,8 @@ I got the idea from this youtube video and decided to create my own version; htt
 **python3 addmusic.py**
 - Please visit this URL to authorize this application: "....."
 - Enter the authorization code: "....."
-- [youtube] LXXQLa-5n5w: Downloading webpage
-- [youtube] hQsZUVMwEls: Downloading webpage
+- [youtube] LXXQLa-5n5w: Downloading webpage <br>
+[youtube] hQsZUVMwEls: Downloading webpage
 - [youtube] dXeOBkKdiAg: Downloading webpage
 - ...
 - [youtube] pb29jzOCONY: Downloading webpage
