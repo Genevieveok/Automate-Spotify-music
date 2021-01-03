@@ -16,6 +16,7 @@ I got the idea from this youtube video and decided to create my own version; htt
 * The authtokens and userid info should be put in the secretinfo.py document so it can to be used by addmusic.py. userid is my spotify user Id and it can be found on the _Profile->Account_ section on https://www.spotify.com/.
 
 * Playlist is named based on the date, e.g. **New Playlist Jan-03-2021**. 
+* Dependencies can be found in requirements.txt document. Install with pip
 
 ## Sample run:
 **python3 addmusic.py** 
