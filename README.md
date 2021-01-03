@@ -19,16 +19,16 @@ I got the idea from this youtube video and decided to create my own version; htt
 
 ## Sample run:
 **python3 addmusic.py**
-- Please visit this URL to authorize this application: "....."
-- Enter the authorization code: "....."
-- [youtube] LXXQLa-5n5w: Downloading webpage <br>
-[youtube] hQsZUVMwEls: Downloading webpage
-- [youtube] dXeOBkKdiAg: Downloading webpage
-- ...
-- [youtube] pb29jzOCONY: Downloading webpage
-- [youtube] Rv_QKcURXK0: Downloading webpage
-- [youtube] VeFJlLStY-I: Downloading webpage
-- **playlist already exists**
-- **Adding song to playlist**
+Please visit this URL to authorize this application: "....." <br>
+Enter the authorization code: "....." <br>
+[youtube] LXXQLa-5n5w: Downloading webpage <br>
+[youtube] hQsZUVMwEls: Downloading webpage <br>
+[youtube] dXeOBkKdiAg: Downloading webpage <br>
+... <br>
+[youtube] pb29jzOCONY: Downloading webpage <br>
+[youtube] Rv_QKcURXK0: Downloading webpage <br>
+[youtube] VeFJlLStY-I: Downloading webpage <br>
+**playlist already exists** <br>
+**Adding song to playlist** <br>
 
 #### Liked songs have been added to my Spotify to the New Playlist Jan-03-2021.
