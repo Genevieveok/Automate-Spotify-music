@@ -15,12 +15,12 @@ I got the idea from this youtube video and decided to create my own version; htt
 * Requests that can be sent to the API are found here, https://developer.spotify.com/console/. At the bottom of each page of requests, there is also a section that allows us to get auth tokens (OAuth Token). The spotify web api tokens only last for an hour, so new tokens are needed constantly. I selected all the __scopes__ in order to get a token that gave me full permissions to modify, but you might only need to select a few that deal with playlists modification. 
 * The authtokens and userid info should be put in the secretinfo.py document so it can to be used by addmusic.py. userid is my spotify user Id and it can be found on the _Profile->Account_ section on https://www.spotify.com/.
 
-Playlist is named based on the date, e.g. New Playlist Jan-03-2021. 
+* Playlist is named based on the date, e.g. **New Playlist Jan-03-2021**. 
 
 ## Sample run:
 **python3 addmusic.py**
-Please visit this URL to authorize this application: "....."
-Enter the authorization code: "....."
+> Please visit this URL to authorize this application: "....."
+> Enter the authorization code: "....."
 [youtube] LXXQLa-5n5w: Downloading webpage
 [youtube] hQsZUVMwEls: Downloading webpage
 [youtube] dXeOBkKdiAg: Downloading webpage
@@ -28,7 +28,7 @@ Enter the authorization code: "....."
 [youtube] pb29jzOCONY: Downloading webpage
 [youtube] Rv_QKcURXK0: Downloading webpage
 [youtube] VeFJlLStY-I: Downloading webpage
-**playlist already exists**
-**Adding song to playlist**
+> **playlist already exists**
+> **Adding song to playlist**
 
 ### Liked songs have been added to my Spotify to the New Playlist Jan-03-2021.
