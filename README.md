@@ -18,7 +18,7 @@ I got the idea from this youtube video and decided to create my own version; htt
 * Playlist is named based on the date, e.g. **New Playlist Jan-03-2021**. 
 
 ## Sample run:
-**python3 addmusic.py**
+**python3 addmusic.py** <br>
 Please visit this URL to authorize this application: "....." <br>
 Enter the authorization code: "....." <br>
 [youtube] LXXQLa-5n5w: Downloading webpage <br>
@@ -31,4 +31,4 @@ Enter the authorization code: "....." <br>
 **playlist already exists** <br>
 **Adding song to playlist** <br>
 
-#### Liked songs have been added to my Spotify to the New Playlist Jan-03-2021.
+#### Liked songs have been added to my Spotify to the _New Playlist Jan-03-2021_.
